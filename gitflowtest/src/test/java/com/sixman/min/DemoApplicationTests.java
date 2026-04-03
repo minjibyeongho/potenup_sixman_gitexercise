@@ -1,4 +1,4 @@
-package com.gitflow.test.demo;
+package com.sixman.min;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
